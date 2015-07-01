@@ -1,0 +1,21 @@
+{
+    "environmentSettings": {
+        "webSite": {
+            "name": "SyrianPoundRates",
+            "location": "West US"
+        },
+        "databases": [
+            {
+                "connectionStringName": "DefaultConnection",
+                "databaseName": "SyrianPound_db",
+                "serverName": "v7dtv5brsb",
+                "user": "masaad",
+                "password": "",
+                "edition": "",
+                "size": "",
+                "collation": "",
+                "location": "West US"
+            }
+        ]
+    }
+}
