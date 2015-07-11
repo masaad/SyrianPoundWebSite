@@ -202,7 +202,7 @@
     <Content Include="favicon.ico" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
-    <Content Include="DroidFiles\Syrianpound16.apk" />
+    <Content Include="DroidFiles\Syrianpound17.apk" />
     <None Include="Properties\PublishProfiles\SyrianPoundRates - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\SyrianPoundRates - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
